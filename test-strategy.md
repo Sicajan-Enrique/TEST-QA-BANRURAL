@@ -11,6 +11,6 @@ En la línea 87,95: "guessSubmit.addeventListener('click', checkGuess);"
 "addeventListener" Estaba mal escrito , la forma correcta seria addEventListener
 ///
 En la línea 114: "randomNumber = Math.floor(Math.random()) + 1;"
-se corrigio randomNumber = Math.floor(Math.random() * 100) + 1; faltando el numero mayor 100
+se corrigio randomNumber = Math.floor(Math.random() * 100) + 1; Faltando el numero mayor 100
 ///
 De igual manera en css tener cuidado algunos colores estaban incorrectos.
