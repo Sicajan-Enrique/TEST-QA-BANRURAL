@@ -13,4 +13,4 @@ En la línea 87,95: "guessSubmit.addeventListener('click', checkGuess);"
 En la línea 114: "randomNumber = Math.floor(Math.random()) + 1;"
 se corrigio randomNumber = Math.floor(Math.random() * 100) + 1; Faltando el numero mayor 100
 ///
-De igual manera en css tener cuidado algunos colores estaban incorrectos.
+
