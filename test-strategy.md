@@ -8,7 +8,7 @@ se convirtio el input a número: let userGuess = Number(guessField.value);
 tambien se equivocaron en los comentario de '¡Felicidades! ¡Adivinaste el número!' andaba el de perdiste , andaba viceversa.
 ///
 En la línea 87,95: "guessSubmit.addeventListener('click', checkGuess);"
-"addeventListener" estaba mal escrito , la forma correcta seria addEventListener
+"addeventListener" Estaba mal escrito , la forma correcta seria addEventListener
 ///
 En la línea 114: "randomNumber = Math.floor(Math.random()) + 1;"
 se corrigio randomNumber = Math.floor(Math.random() * 100) + 1; faltando el numero mayor 100
